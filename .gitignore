@@ -1,0 +1,9 @@
+.sfdx/
+.sf/
+.localdevserver/
+node_modules/
+*.bak
+*.log
+.DS_Store
+.vscode/
+.idea/

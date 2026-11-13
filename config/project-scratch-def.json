@@ -1,0 +1,10 @@
+{
+  "orgName": "apex-v67-playbook lab",
+  "edition": "Developer",
+  "features": [],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    }
+  }
+}
